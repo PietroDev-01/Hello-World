@@ -1,0 +1,2 @@
+{'ID': '01J839S125E34MS86RZZ2B4RBE', 'Nome da Montadora': 'Nissan', 'Nacionalidade da Montadora': 'Jap�o', 'Ano de Funda��o da Montadora': 1933} 
+{'ID': '01J839V19EFFYNS96GSP7W633K', 'Nome da Montadora': 'Toyota', 'Nacionalidade da Montadora': 'Jap�o', 'Ano de Funda��o da Montadora': 1892} 
